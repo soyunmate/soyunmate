@@ -7,7 +7,7 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> About Me</b>
 
-<img align="right" height="270px" alt="cats&pc"  src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gifv" /> 
+<img align="right" height="240px" alt="cats&pc"  src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gifv" /> 
 
 - Hi! My name is Gabriel, a fullstack developer from Chile.
 - Always Learning new techs & tools

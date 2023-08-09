@@ -5,7 +5,7 @@
 
 
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> About Me</b>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"> <b> About Me </b>
 
 <img align="right" height="230px" alt="cats&pc"  src="https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gifv" /> 
 
@@ -14,7 +14,7 @@
 - Lets Connect on LinkedIn!
 - Thank You for taking the time to view my GitHub Profile 😄
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Skills </b>
 
 ### 🔭 Programming Languages & Frameworks
  [![My Skills](https://skillicons.dev/icons?i=java,js,spring,nodejs)](https://skillicons.dev)
@@ -51,17 +51,17 @@
 </td>
 
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyunmate&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyunmate&theme=aura&size_weight=0.5&count_weight=0.5&langs_count=10" />
   </td>
 </tr>
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soyunmate&layout=compact&theme=aura&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" /></a> </p>
- trophy (end) -->
-
-
+<!--- trophy (start) -->
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soyunmate&layout=compact&theme=tokyonight&column=5&row=1&margin-w=15&margin-h=15&rank=-?" alt="soyunmate trophies" /></a> 
+</p>
+<!-- trophy (end) -->
 </p>        
 <!--- stats (end) -->
 

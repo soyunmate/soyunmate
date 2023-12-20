@@ -35,6 +35,8 @@
 <!--
  [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,jquery,nodejs,express,mongodb,mysql,postgres,bash,git,vscode)](https://skillicons.dev)
 -->
+
+
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials
 <p align="center">
 	<a href="mailto:gm.barahona.dev@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>

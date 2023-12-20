@@ -68,9 +68,11 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
+<!-- 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soyunmate&layout=compact&theme=tokyonight&column=5&row=1&margin-w=15&margin-h=15&rank=-?" alt="soyunmate trophies" /></a> 
 </p>
+-->
 <!-- trophy (end) -->
 </p>        
 <!--- stats (end) -->

@@ -17,9 +17,9 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Skills </b>
 
 ### 🔭 Programming Languages & Frameworks
- [![My Skills](https://skillicons.dev/icons?i=java,spring,js,nodejs,react,mysql,postgres,bootstrap,html,css&perline=5)](https://skillicons.dev)
- 
-  <img align="right" height="270px" alt="laboratory pc"  src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" />
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,angular,mysql,postgres,bootstrap,html,css&perline=6)](https://skillicons.dev)
+   <img align="right" height="270px" alt="laboratory pc"  src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" />
+
  <!---  
 ### 🔥 Web Development
  [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap)](https://skillicons.dev)
@@ -28,8 +28,10 @@
  
 ### ⚡ Software & Tools
  [![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,idea,eclipse)](https://skillicons.dev)
+ <!--
 ### 🌱 Currently learning
 [![My Skills](https://skillicons.dev/icons?i=angular,docker)](https://skillicons.dev)
+-->
 <!--
  [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,jquery,nodejs,express,mongodb,mysql,postgres,bash,git,vscode)](https://skillicons.dev)
 -->
